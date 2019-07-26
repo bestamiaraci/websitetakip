@@ -1,0 +1,2 @@
+c:\users\win8\documents\visual studio 2012\Projects\Website Takip ve Kontrol\Website Takip ve Kontrol\bin\Debug\Website Takip ve Kontrol.exe.config
+C:\Users\Win8\Documents\Visual Studio 2012\Projects\Website Takip ve Kontrol\websitetakip\Website Takip ve Kontrol\bin\Debug\Website Takip ve Kontrol.exe.config
